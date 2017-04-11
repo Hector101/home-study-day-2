@@ -1,16 +1,17 @@
 {
   "name": "currency-api-app",
   "version": "1.0.0",
-  "description": "A command line app that make request to an api to return currency exchange rate to the user",
+  "description": "A command line app that make request to an api to return a random quote and the author who said it to the user",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js"
   },
   "keywords": [
-    "weather",
+    "quotes",
     "api",
     "request",
-    "command-line"
+    "command-line",
+    "random"
   ],
   "author": "Johnson Okoro",
   "license": "MIT",
