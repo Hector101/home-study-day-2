@@ -1,5 +1,5 @@
 {
-  "name": "currency-api-app",
+  "name": "random-quote-api",
   "version": "1.0.0",
   "description": "A command line app that make request to an api to return a random quote and the author who said it to the user",
   "main": "src/app.js",
