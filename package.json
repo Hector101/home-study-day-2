@@ -4,14 +4,17 @@
   "description": "A command line app that make request to an api to return currency exchange rate to the user",
   "main": "src/app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/app.js"
   },
   "keywords": [
-    "currency",
+    "weather",
     "api",
     "request",
     "command-line"
   ],
   "author": "Johnson Okoro",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "unirest": "^0.5.1"
+  }
 }
