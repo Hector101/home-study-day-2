@@ -1,0 +1,17 @@
+{
+  "name": "currency-api-app",
+  "version": "1.0.0",
+  "description": "A command line app that make request to an api to return currency exchange rate to the user",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency",
+    "api",
+    "request",
+    "command-line"
+  ],
+  "author": "Johnson Okoro",
+  "license": "MIT"
+}
