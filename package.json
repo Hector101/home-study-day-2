@@ -16,6 +16,8 @@
   "author": "Johnson Okoro",
   "license": "MIT",
   "dependencies": {
+    "colors": "^1.1.2",
+    "prompt": "^1.0.0",
     "unirest": "^0.5.1"
   }
 }
